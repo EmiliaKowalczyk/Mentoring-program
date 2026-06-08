@@ -20,3 +20,7 @@ The exercises in this repository may include, but are not limited to:
 ## 📁 Repository structure
 
 Each folder represents a separate task or topic:
+Statistics_Practice/
+├── task-01-sales/
+├── task-02-call-center/
+└── task-03-channing-house/
