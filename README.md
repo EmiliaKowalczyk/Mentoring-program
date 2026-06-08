@@ -17,11 +17,10 @@ The exercises in this repository may include, but are not limited to:
 - Working with datasets (CSV, Excel, APIs)
 - Basic machine learning concepts
 
-## 📁 Repository structure
+## 🚀 Goal
 
-Each folder represents a separate task or topic:
+To build practical skills and prepare for a Data Scientist role by solving real analytical problems and working with data.
 
-Statistics_Practice/
-├── task-01-sales/
-├── task-02-call-center/
-└── task-03-channing-house/
+## 📝 Notes
+
+This repository is continuously updated as I progress through the mentoring program.
